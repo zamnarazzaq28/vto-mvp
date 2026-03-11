@@ -1,0 +1,26 @@
+# Virtual Environment
+fashn-env/
+venv/
+.env
+
+# Model Weights (Large Files)
+**/weights/
+**/models/
+*.task
+*.safetensors
+*.onnx
+*.pth
+*.bin
+
+# Output & Temp Files
+storage/
+output*.png
+output*.jpg
+vto_output*.jpg
+.DS_Store
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/

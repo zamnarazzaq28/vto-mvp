@@ -10,3 +10,6 @@ ipykernel
 einops
 fashn-human-parser
 onnxruntime
+fastapi
+uvicorn
+python-multipart
